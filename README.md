@@ -24,3 +24,22 @@
 
 ## Ejemplo de Wireframe
 [Wireframes](https://balsamiq.com/assets/learn/articles/gym-app_first-wireframes.jpg) 
+
+## Historial de commits
+- add: Se crea archivo README.md con la información solicitada.
+- update: Se añade sección Usos y formato Markdown al README.
+- add: Se adjuntan enlaces externos (W3schools, Figma, Notion)
+- fix: Corrección ejemplo Wireframe.
+- add: Historial de commits
+- update: Crear carpeta documentos con apuntes esenciales, carpeta ejemplos prácticos y carpeta imagenes para elementos visuales.
+
+## Organización repositorio 
+- documentos/README.md
+- ejemplos/README.md
+- imagenes/README.md
+
+
+
+
+
+
